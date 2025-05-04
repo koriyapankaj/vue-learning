@@ -4,11 +4,6 @@ let app = Vue.createApp({
             courseGoal: 'Test goal',
         };
     },
-
-    methods: {
-
-    }
-
 });
 
 app.mount('#app');
